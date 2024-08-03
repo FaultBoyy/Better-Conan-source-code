@@ -1,0 +1,171 @@
+W / Up - Jump
+A / Left - Move Left
+S / Down - Crouch
+D / Right - Move Right
+
+Space - locate truffles/plants, go through gateways
+
+R - reset to last save point
+M - hide/unhide minimap
+
+
+L - unlocks all levels
+F - fireflies follow but no light
+G - kill firefly particles
+E - respawn firefly particles
+T - loads tutorial from credits
+
+
+Levels:
+0 Heart of the Forest 65
+1 Marhans Grotto 30
+2 Pinch Mountain 30
+3 Chalk Cliffs 30
+4 Beach 30
+5 Mine 40
+6 Precipice 85
+7 Refuge 35
+8 Tutorial 10
+
+connections:
+0> beach, marhans grotto, pinch mountain, chalk cliffs
+1> hotf, mine,  
+2> hotf, mine
+3> precipice, hotf, beach
+4> hotf, chalk cliffs
+5> marhans grotto, precipice, pinch mountain
+6> chalk cliffs, refuge, mine
+7> precipice, 
+8> hotf,
+
+enemies:
+0 bees, wolf, ghost
+1 bats, ghost
+2 wolf
+3 wolf, bees
+4 wolf, bees, 
+5 bats, 
+6 bees, wolf, bat
+7 bees, ghost, wolf
+8 wolf
+
+palette:
+
+forest: refuge, pinch mountain, hotf, tutorial
+sand: beach, chalkcliffs, 
+cave: mine, marhans grotto,
+all: precipice
+
+
+Minimap
+truffle count
+connections
+enemies
+palette
+level#
+
+
+
+Creatures:
+Wolf
+Conan
+Wild Boar (Bonan)
+Bees
+Ghost
+Bat
+Rabbit
+Turtle
+Ladybug
+Butterfly
+
+
+Plants: (buffs, time, and variants)
+Acorn
+40 seconds 
+
+Bean
+60 seconds
+
+Clover
+Until Next Pickup (2x)
+
+Sunflower
+60 seconds
+
+Pepper
+60 seconds
+
+Garlic
+60 seconds
+
+Mushroom
+100 seconds
+
+--------------
+Acorn: Transforms you into a wild boar
+Bean: Allows you to triple jump
+Clover: Next plant you eat lasts twice as long
+Sunflower: Keeps you safe from bees
+Pepper: Makes you run faster
+Garlic: Keeps you safe from bats
+Mushroom: Makes fireflies follow you
+
+
+plant notes:
+plant icon lasts 5 seconds longer after all green is gone
+
+warnings at half way points
+
+150t = 1.25 25% bonus
+250t = 1.5 50% bonus
+345t = 2 100% bonus
+
+3 fireflies for max light
+
+turtles hide when your near them
+
+if bees lose intrest they go to the nearest hive, not always their own original
+
+
+
+*Explore and gather truffles. Taste different foods for unexpected flavors. Be aware of the wild beasts that crave your truffles.*
+
+*Conan the mighty pig as a relaxing action-adventure exploration game. In your quest to find all the lost truffles you must avoid forest creatures and eat plants to gain special powers.
+
+There are many interconnected area to explore, including mountain and caves.
+An extension on the freeware flash game- this is your chance to own your very own copy of this highly addictive game for your Steam library!*
+
+*Conan the mighty pig as a relaxing action-adventure exploration game. In your quest to find all the lost truffles you must avoid forest creatures and eat plants to gain special powers. There are many interconnected area to explore, including mountain and caves.*
+
+
+
+
+Conan The Mighty Pig
+https://store.steampowered.com/app/487700/Conan_the_mighty_pig/
+
+Stars, Rabbit and Basket https://www.newgrounds.com/portal/view/618392
+
+Chipacabra's Jumper
+https://haxeflixel.com/demos/ProjectJumper/
+
+William and Sly (Inspiration for Conan)
+https://www.newgrounds.com/portal/view/503833
+
+Original Cutscene:
+https://www.youtube.com/watch?v=sn3PNXXYqOQ
+
+Conan Font:
+https://www.dafont.com/rumpelstiltskin.font
+
+
+
+
+
+
+-----------------------------------------------
+
+Discord: https://discord.gg/3my58cd
+Subreddit: https://www.reddit.com/r/ConanTheMightyPig/
+Steam Page: https://store.steampowered.com/app/487700/Conan_the_mighty_pig/
+Speedruns: https://www.speedrun.com/mightypig/full_game
+Wiki: https://mightypig.fandom.com/
